@@ -1,0 +1,15 @@
+#Dimensionless ODEs
+x' = (1+ x^2 + a*s*x^4)/( (1+x^2+s*x^4)*(1+y^4) ) - gx * x
+y' = 1/tau * ( (1 + x^2 + a*s*x^4)/( (1+x^2+s*x^4)*(1+y^4) ) - gy * y )
+
+#Parameters
+par gx=0.05, gy=0.04, a=11, s=2, tau=5 
+
+#Initial Conditions
+init x=1, y=1
+
+#Set up Integration time
+@ total=200
+
+@ xp=x, yp=y, xlo=1, xhi=3, ylo=2.5, yhi=3.5faf
+done
