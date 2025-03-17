@@ -1,0 +1,76 @@
+ 
+@Article{Hasty2002,
+  author    = {Hasty, Jeff and Dolnik, Milos and Rottschäfer, Vivi and Collins, James J.},
+  journal   = {Physical Review Letters},
+  title     = {Synthetic Gene Network for Entraining and Amplifying Cellular Oscillations},
+  year      = {2002},
+  issn      = {1079-7114},
+  month     = mar,
+  number    = {14},
+  pages     = {148101},
+  volume    = {88},
+  doi       = {10.1103/physrevlett.88.148101},
+  publisher = {American Physical Society (APS)},
+}
+
+ 
+@Article{Gardner2000,
+  author    = {Gardner, Timothy S. and Cantor, Charles R. and Collins, James J.},
+  journal   = {Nature},
+  title     = {Construction of a genetic toggle switch in Escherichia coli},
+  year      = {2000},
+  issn      = {1476-4687},
+  month     = jan,
+  number    = {6767},
+  pages     = {339--342},
+  volume    = {403},
+  doi       = {10.1038/35002131},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Elowitz2000,
+  author    = {Elowitz, Michael B. and Leibler, Stanislas},
+  journal   = {Nature},
+  title     = {A synthetic oscillatory network of transcriptional regulators},
+  year      = {2000},
+  issn      = {1476-4687},
+  month     = jan,
+  number    = {6767},
+  pages     = {335--338},
+  volume    = {403},
+  doi       = {10.1038/35002125},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Lu2009,
+  author    = {Lu, Timothy K and Khalil, Ahmad S and Collins, James J},
+  journal   = {Nature Biotechnology},
+  title     = {Next-generation synthetic gene networks},
+  year      = {2009},
+  issn      = {1546-1696},
+  month     = dec,
+  number    = {12},
+  pages     = {1139--1150},
+  volume    = {27},
+  doi       = {10.1038/nbt.1591},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Levskaya2005,
+  author    = {Levskaya, Anselm and Chevalier, Aaron A. and Tabor, Jeffrey J. and Simpson, Zachary Booth and Lavery, Laura A. and Levy, Matthew and Davidson, Eric A. and Scouras, Alexander and Ellington, Andrew D. and Marcotte, Edward M. and Voigt, Christopher A.},
+  journal   = {Nature},
+  title     = {Engineering Escherichia coli to see light},
+  year      = {2005},
+  issn      = {1476-4687},
+  month     = nov,
+  number    = {7067},
+  pages     = {441--442},
+  volume    = {438},
+  doi       = {10.1038/nature04405},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
