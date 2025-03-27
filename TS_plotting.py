@@ -187,7 +187,7 @@ def phasePlane(pars,xBounds,yBounds, x0s,t, ax, LC = False, nx = 100, ny = 100, 
     y_vals = np.linspace(yLo, yHi, ny)
     X, Y = np.meshgrid(x_vals, y_vals)
     uDot,vDot = f([X.ravel(),Y.ravel()], 0, pars)
-    eqId = np.argmin(np.abs(uDot)**2.2 + np.abs(vDot)**2) 
+    eqId = np.argmin(np.abs(uDot)**2 + np.abs(vDot)**2) 
 
 
     eqX = X.ravel()[eqId]
