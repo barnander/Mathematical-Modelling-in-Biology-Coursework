@@ -1,0 +1,256 @@
+ 
+@Article{Hasty2002,
+  author    = {Hasty, Jeff and Dolnik, Milos and Rottschäfer, Vivi and Collins, James J.},
+  journal   = {Physical Review Letters},
+  title     = {Synthetic Gene Network for Entraining and Amplifying Cellular Oscillations},
+  year      = {2002},
+  issn      = {1079-7114},
+  month     = mar,
+  number    = {14},
+  pages     = {148101},
+  volume    = {88},
+  doi       = {10.1103/physrevlett.88.148101},
+  publisher = {American Physical Society (APS)},
+}
+
+ 
+@Article{Gardner2000,
+  author    = {Gardner, Timothy S. and Cantor, Charles R. and Collins, James J.},
+  journal   = {Nature},
+  title     = {Construction of a genetic toggle switch in Escherichia coli},
+  year      = {2000},
+  issn      = {1476-4687},
+  month     = jan,
+  number    = {6767},
+  pages     = {339--342},
+  volume    = {403},
+  doi       = {10.1038/35002131},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Elowitz2000,
+  author    = {Elowitz, Michael B. and Leibler, Stanislas},
+  journal   = {Nature},
+  title     = {A synthetic oscillatory network of transcriptional regulators},
+  year      = {2000},
+  issn      = {1476-4687},
+  month     = jan,
+  number    = {6767},
+  pages     = {335--338},
+  volume    = {403},
+  doi       = {10.1038/35002125},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Lu2009,
+  author    = {Lu, Timothy K and Khalil, Ahmad S and Collins, James J},
+  journal   = {Nature Biotechnology},
+  title     = {Next-generation synthetic gene networks},
+  year      = {2009},
+  issn      = {1546-1696},
+  month     = dec,
+  number    = {12},
+  pages     = {1139--1150},
+  volume    = {27},
+  doi       = {10.1038/nbt.1591},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Levskaya2005,
+  author    = {Levskaya, Anselm and Chevalier, Aaron A. and Tabor, Jeffrey J. and Simpson, Zachary Booth and Lavery, Laura A. and Levy, Matthew and Davidson, Eric A. and Scouras, Alexander and Ellington, Andrew D. and Marcotte, Edward M. and Voigt, Christopher A.},
+  journal   = {Nature},
+  title     = {Engineering Escherichia coli to see light},
+  year      = {2005},
+  issn      = {1476-4687},
+  month     = nov,
+  number    = {7067},
+  pages     = {441--442},
+  volume    = {438},
+  doi       = {10.1038/nature04405},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Wu2015,
+  author    = {Wu, Fuqing and Wang, Xiao},
+  journal   = {Science Progress},
+  title     = {Applications of Synthetic Gene Networks},
+  year      = {2015},
+  issn      = {2047-7163},
+  month     = sep,
+  number    = {3},
+  pages     = {244--252},
+  volume    = {98},
+  doi       = {10.3184/003685015x14368807556441},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Wang2011,
+  author    = {Wang, Baojun and Kitney, Richard I and Joly, Nicolas and Buck, Martin},
+  journal   = {Nature Communications},
+  title     = {Engineering modular and orthogonal genetic logic gates for robust digital-like synthetic biology},
+  year      = {2011},
+  issn      = {2041-1723},
+  month     = oct,
+  number    = {1},
+  volume    = {2},
+  doi       = {10.1038/ncomms1516},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Siuti2013,
+  author    = {Siuti, Piro and Yazbek, John and Lu, Timothy K},
+  journal   = {Nature Biotechnology},
+  title     = {Synthetic circuits integrating logic and memory in living cells},
+  year      = {2013},
+  issn      = {1546-1696},
+  month     = feb,
+  number    = {5},
+  pages     = {448--452},
+  volume    = {31},
+  doi       = {10.1038/nbt.2510},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Stanton2013,
+  author    = {Stanton, Brynne C and Nielsen, Alec A K and Tamsir, Alvin and Clancy, Kevin and Peterson, Todd and Voigt, Christopher A},
+  journal   = {Nature Chemical Biology},
+  title     = {Genomic mining of prokaryotic repressors for orthogonal logic gates},
+  year      = {2013},
+  issn      = {1552-4469},
+  month     = dec,
+  number    = {2},
+  pages     = {99--105},
+  volume    = {10},
+  doi       = {10.1038/nchembio.1411},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Sohka2009,
+  author    = {Sohka, Takayuki and Heins, Richard A. and Phelan, Ryan M. and Greisler, Jennifer M. and Townsend, Craig A. and Ostermeier, Marc},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {An externally tunable bacterial band-pass filter},
+  year      = {2009},
+  issn      = {1091-6490},
+  month     = jun,
+  number    = {25},
+  pages     = {10135--10140},
+  volume    = {106},
+  doi       = {10.1073/pnas.0901246106},
+  publisher = {Proceedings of the National Academy of Sciences},
+}
+
+ 
+@Article{Kobayashi2004,
+  author    = {Kobayashi, Hideki and Kærn, Mads and Araki, Michihiro and Chung, Kristy and Gardner, Timothy S. and Cantor, Charles R. and Collins, James J.},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {Programmable cells: Interfacing natural and engineered gene networks},
+  year      = {2004},
+  issn      = {1091-6490},
+  month     = may,
+  number    = {22},
+  pages     = {8414--8419},
+  volume    = {101},
+  doi       = {10.1073/pnas.0402940101},
+  publisher = {Proceedings of the National Academy of Sciences},
+}
+
+ 
+@Article{Ptashne1980,
+  author    = {Ptashne, M. and Jeffrey, A. and Johnson, A.D. and Maurer, R. and Meyer, B.J. and Pabo, C.O. and Roberts, T.M. and Sauer, R.T.},
+  journal   = {Cell},
+  title     = {How the λ repressor and cro work},
+  year      = {1980},
+  issn      = {0092-8674},
+  month     = jan,
+  number    = {1},
+  pages     = {1--11},
+  volume    = {19},
+  doi       = {10.1016/0092-8674(80)90383-9},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Hasty2001,
+  author    = {Hasty, Jeff and Isaacs, Farren and Dolnik, Milos and McMillen, David and Collins, J. J.},
+  journal   = {Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  title     = {Designer gene networks: Towards fundamental cellular control},
+  year      = {2001},
+  issn      = {1089-7682},
+  month     = mar,
+  number    = {1},
+  pages     = {207--220},
+  volume    = {11},
+  doi       = {10.1063/1.1345702},
+  publisher = {AIP Publishing},
+}
+
+ 
+@Article{Borg2022,
+  author    = {Borg, Yanika and Alsford, Sam and Pavlika, Vasos and Zaikin, Alexei and Nesbeth, Darren N.},
+  journal   = {Heliyon},
+  title     = {Synthetic biology tools for engineering Goodwin oscillation in Trypanosoma brucei brucei},
+  year      = {2022},
+  issn      = {2405-8440},
+  month     = feb,
+  number    = {2},
+  pages     = {e08891},
+  volume    = {8},
+  doi       = {10.1016/j.heliyon.2022.e08891},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Gonze2020,
+  author    = {Gonze, Didier and Ruoff, Peter},
+  journal   = {Acta Biotheoretica},
+  title     = {The Goodwin Oscillator and its Legacy},
+  year      = {2020},
+  issn      = {1572-8358},
+  month     = mar,
+  number    = {4},
+  pages     = {857--874},
+  volume    = {69},
+  doi       = {10.1007/s10441-020-09379-8},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Griffith1968,
+  author    = {Griffith, J.S.},
+  journal   = {Journal of Theoretical Biology},
+  title     = {Mathematics of cellular control processes I. Negative feedback to one gene},
+  year      = {1968},
+  issn      = {0022-5193},
+  month     = aug,
+  number    = {2},
+  pages     = {202--208},
+  volume    = {20},
+  doi       = {10.1016/0022-5193(68)90189-6},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Walter1974,
+  author    = {Walter, Charles F.},
+  journal   = {Journal of Theoretical Biology},
+  title     = {Some dynamic properties of linear, hyperbolic and sigmoidal multi-enzyme systems with feedback control},
+  year      = {1974},
+  issn      = {0022-5193},
+  month     = apr,
+  number    = {2},
+  pages     = {219--240},
+  volume    = {44},
+  doi       = {10.1016/0022-5193(74)90158-1},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Palsson198

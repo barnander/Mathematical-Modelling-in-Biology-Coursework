@@ -73,4 +73,369 @@
   publisher = {Springer Science and Business Media LLC},
 }
 
+ 
+@Article{Wu2015,
+  author    = {Wu, Fuqing and Wang, Xiao},
+  journal   = {Science Progress},
+  title     = {Applications of Synthetic Gene Networks},
+  year      = {2015},
+  issn      = {2047-7163},
+  month     = sep,
+  number    = {3},
+  pages     = {244--252},
+  volume    = {98},
+  doi       = {10.3184/003685015x14368807556441},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Wang2011,
+  author    = {Wang, Baojun and Kitney, Richard I and Joly, Nicolas and Buck, Martin},
+  journal   = {Nature Communications},
+  title     = {Engineering modular and orthogonal genetic logic gates for robust digital-like synthetic biology},
+  year      = {2011},
+  issn      = {2041-1723},
+  month     = oct,
+  number    = {1},
+  volume    = {2},
+  doi       = {10.1038/ncomms1516},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Siuti2013,
+  author    = {Siuti, Piro and Yazbek, John and Lu, Timothy K},
+  journal   = {Nature Biotechnology},
+  title     = {Synthetic circuits integrating logic and memory in living cells},
+  year      = {2013},
+  issn      = {1546-1696},
+  month     = feb,
+  number    = {5},
+  pages     = {448--452},
+  volume    = {31},
+  doi       = {10.1038/nbt.2510},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Stanton2013,
+  author    = {Stanton, Brynne C and Nielsen, Alec A K and Tamsir, Alvin and Clancy, Kevin and Peterson, Todd and Voigt, Christopher A},
+  journal   = {Nature Chemical Biology},
+  title     = {Genomic mining of prokaryotic repressors for orthogonal logic gates},
+  year      = {2013},
+  issn      = {1552-4469},
+  month     = dec,
+  number    = {2},
+  pages     = {99--105},
+  volume    = {10},
+  doi       = {10.1038/nchembio.1411},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Sohka2009,
+  author    = {Sohka, Takayuki and Heins, Richard A. and Phelan, Ryan M. and Greisler, Jennifer M. and Townsend, Craig A. and Ostermeier, Marc},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {An externally tunable bacterial band-pass filter},
+  year      = {2009},
+  issn      = {1091-6490},
+  month     = jun,
+  number    = {25},
+  pages     = {10135--10140},
+  volume    = {106},
+  doi       = {10.1073/pnas.0901246106},
+  publisher = {Proceedings of the National Academy of Sciences},
+}
+
+ 
+@Article{Kobayashi2004,
+  author    = {Kobayashi, Hideki and Kærn, Mads and Araki, Michihiro and Chung, Kristy and Gardner, Timothy S. and Cantor, Charles R. and Collins, James J.},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {Programmable cells: Interfacing natural and engineered gene networks},
+  year      = {2004},
+  issn      = {1091-6490},
+  month     = may,
+  number    = {22},
+  pages     = {8414--8419},
+  volume    = {101},
+  doi       = {10.1073/pnas.0402940101},
+  publisher = {Proceedings of the National Academy of Sciences},
+}
+
+ 
+@Article{Ptashne1980,
+  author    = {Ptashne, M. and Jeffrey, A. and Johnson, A.D. and Maurer, R. and Meyer, B.J. and Pabo, C.O. and Roberts, T.M. and Sauer, R.T.},
+  journal   = {Cell},
+  title     = {How the λ repressor and cro work},
+  year      = {1980},
+  issn      = {0092-8674},
+  month     = jan,
+  number    = {1},
+  pages     = {1--11},
+  volume    = {19},
+  doi       = {10.1016/0092-8674(80)90383-9},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Hasty2001,
+  author    = {Hasty, Jeff and Isaacs, Farren and Dolnik, Milos and McMillen, David and Collins, J. J.},
+  journal   = {Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  title     = {Designer gene networks: Towards fundamental cellular control},
+  year      = {2001},
+  issn      = {1089-7682},
+  month     = mar,
+  number    = {1},
+  pages     = {207--220},
+  volume    = {11},
+  doi       = {10.1063/1.1345702},
+  publisher = {AIP Publishing},
+}
+
+ 
+@Article{Borg2022,
+  author    = {Borg, Yanika and Alsford, Sam and Pavlika, Vasos and Zaikin, Alexei and Nesbeth, Darren N.},
+  journal   = {Heliyon},
+  title     = {Synthetic biology tools for engineering Goodwin oscillation in Trypanosoma brucei brucei},
+  year      = {2022},
+  issn      = {2405-8440},
+  month     = feb,
+  number    = {2},
+  pages     = {e08891},
+  volume    = {8},
+  doi       = {10.1016/j.heliyon.2022.e08891},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Gonze2020,
+  author    = {Gonze, Didier and Ruoff, Peter},
+  journal   = {Acta Biotheoretica},
+  title     = {The Goodwin Oscillator and its Legacy},
+  year      = {2020},
+  issn      = {1572-8358},
+  month     = mar,
+  number    = {4},
+  pages     = {857--874},
+  volume    = {69},
+  doi       = {10.1007/s10441-020-09379-8},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Griffith1968,
+  author    = {Griffith, J.S.},
+  journal   = {Journal of Theoretical Biology},
+  title     = {Mathematics of cellular control processes I. Negative feedback to one gene},
+  year      = {1968},
+  issn      = {0022-5193},
+  month     = aug,
+  number    = {2},
+  pages     = {202--208},
+  volume    = {20},
+  doi       = {10.1016/0022-5193(68)90189-6},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Walter1974,
+  author    = {Walter, Charles F.},
+  journal   = {Journal of Theoretical Biology},
+  title     = {Some dynamic properties of linear, hyperbolic and sigmoidal multi-enzyme systems with feedback control},
+  year      = {1974},
+  issn      = {0022-5193},
+  month     = apr,
+  number    = {2},
+  pages     = {219--240},
+  volume    = {44},
+  doi       = {10.1016/0022-5193(74)90158-1},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Palsson1988,
+  author    = {Palsson, Bernhard O. and Groshans, Thomas M.},
+  journal   = {Journal of Theoretical Biology},
+  title     = {Mathematical modelling of dynamics and control in metabolic networks: VI. Dynamic bifurcations in single biochemical control loops},
+  year      = {1988},
+  issn      = {0022-5193},
+  month     = mar,
+  number    = {1},
+  pages     = {43--53},
+  volume    = {131},
+  doi       = {10.1016/s0022-5193(88)80119-x},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Tiwari1973,
+  author    = {Tiwari, Jawahar and Fraser, Alex},
+  journal   = {Journal of Theoretical Biology},
+  title     = {Genetic regulation by feedback repression},
+  year      = {1973},
+  issn      = {0022-5193},
+  month     = jun,
+  number    = {3},
+  pages     = {679--681},
+  volume    = {39},
+  doi       = {10.1016/0022-5193(73)90082-9},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Tiwari1974,
+  author    = {Tiwari, Jawahar and Fraser, Alex and Beckman, Richard},
+  journal   = {Journal of Theoretical Biology},
+  title     = {Genetical feedback repression I. Single locus models},
+  year      = {1974},
+  issn      = {0022-5193},
+  month     = jun,
+  number    = {2},
+  pages     = {311--326},
+  volume    = {45},
+  doi       = {10.1016/0022-5193(74)90117-9},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Invernizzi1991,
+  author    = {Invernizzi, Sergio and Treu, Giulia},
+  journal   = {Journal of Mathematical Biology},
+  title     = {Quantitative analysis of the Hopf bifurcation in the Goodwin n-dimensional metabolic control system},
+  year      = {1991},
+  issn      = {1432-1416},
+  month     = aug,
+  number    = {8},
+  pages     = {733--742},
+  volume    = {29},
+  doi       = {10.1007/bf00160189},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Pasemann1995,
+  author    = {Pasemann, Frank},
+  journal   = {Neural Networks},
+  title     = {Characterization of periodic attractors in neural ring networks},
+  year      = {1995},
+  issn      = {0893-6080},
+  month     = jan,
+  number    = {3},
+  pages     = {421--429},
+  volume    = {8},
+  doi       = {10.1016/0893-6080(94)00085-z},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Mueller2006,
+  author    = {Müller, Stefan and Hofbauer, Josef and Endler, Lukas and Flamm, Christoph and Widder, Stefanie and Schuster, Peter},
+  journal   = {Journal of Mathematical Biology},
+  title     = {A generalized model of the repressilator},
+  year      = {2006},
+  issn      = {1432-1416},
+  month     = sep,
+  number    = {6},
+  pages     = {905--937},
+  volume    = {53},
+  doi       = {10.1007/s00285-006-0035-9},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+@Book{Goodwin1963,
+  author    = {Goodwin,B. C.},
+  publisher = {London and New York: Academic Press.},
+  title     = {Temporal organization in cells. A dynamic theory of cellular control processes.},
+  year      = {1963},
+  item-type = {Book},
+  language  = {English},
+  pages     = {x + 163 pp.},
+}
+
+@Article{Goodwin1967,
+  author    = {Goodwin, Brian C},
+  journal   = {Annals of the New York Academy of Sciences},
+  title     = {Biological control processes and time},
+  year      = {1967},
+  number    = {2},
+  pages     = {748--758},
+  volume    = {138},
+  publisher = {Wiley Online Library},
+}
+
+ 
+@Article{Chen2010,
+  author    = {Chen, Bor-Sen and Chen, Po-Wei},
+  journal   = {Gene Regulation and Systems Biology},
+  title     = {GA-based Design Algorithms for the Robust Synthetic Genetic Oscillators with Prescribed Amplitude, Period and Phase},
+  year      = {2010},
+  issn      = {1177-6250},
+  month     = jan,
+  volume    = {4},
+  doi       = {10.4137/grsb.s4818},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Chang2013,
+  author    = {Chang, Yen-Chang and Lin, Chun-Liang and Jennawasin, Tanagorn},
+  journal   = {Evolutionary Bioinformatics},
+  title     = {Design of Synthetic Genetic Oscillators Using Evolutionary Optimization},
+  year      = {2013},
+  issn      = {1176-9343},
+  month     = jan,
+  volume    = {9},
+  doi       = {10.4137/ebo.s11225},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Tsai2008,
+  author    = {Tsai, Tony Yu-Chen and Choi, Yoon Sup and Ma, Wenzhe and Pomerening, Joseph R. and Tang, Chao and Ferrell, James E.},
+  journal   = {Science},
+  title     = {Robust, Tunable Biological Oscillations from Interlinked Positive and Negative Feedback Loops},
+  year      = {2008},
+  issn      = {1095-9203},
+  month     = jul,
+  number    = {5885},
+  pages     = {126--129},
+  volume    = {321},
+  doi       = {10.1126/science.1156951},
+  publisher = {American Association for the Advancement of Science (AAAS)},
+}
+
+ 
+@Article{Chen2004,
+  author    = {Chen, Luonan and Wang, Ruiqi and Kobayashi, Tetsuya J. and Aihara, Kazuyuki},
+  journal   = {Physical Review E},
+  title     = {Dynamics of gene regulatory networks with cell division cycle},
+  year      = {2004},
+  issn      = {1550-2376},
+  month     = jul,
+  number    = {1},
+  pages     = {011909},
+  volume    = {70},
+  doi       = {10.1103/physreve.70.011909},
+  publisher = {American Physical Society (APS)},
+}
+
+@Article{,
+  author = {https://doi.org/10.1038/nature07389},
+}
+
+ 
+@Article{Stricker2008,
+  author    = {Stricker, Jesse and Cookson, Scott and Bennett, Matthew R. and Mather, William H. and Tsimring, Lev S. and Hasty, Jeff},
+  journal   = {Nature},
+  title     = {A fast, robust and tunable synthetic gene oscillator},
+  year      = {2008},
+  issn      = {1476-4687},
+  month     = oct,
+  number    = {7221},
+  pages     = {516--519},
+  volume    = {456},
+  doi       = {10.1038/nature07389},
+  publisher = {Springer Science and Business Media LLC},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
